@@ -4,3 +4,4 @@
 ### You may test it by using command like,
 ```sudo mount -t nfs 192.168.11.113:/mnt/nfs/promdata /mnt/nfs/promdata
 # prometheus_on_local_pi_cluster
+![alt text](https://i.ibb.co/xYxfKqw/prom-desktop.jpg)
